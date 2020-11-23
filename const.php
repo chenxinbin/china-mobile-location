@@ -24,5 +24,3 @@ $ISP_PHONE_PREX = [
     //148 移动物联网
 ]; 
 
-
-var_dump($ISP_PHONE_PREX[CHINA_MOBILE]);
